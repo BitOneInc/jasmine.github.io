@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rocco'
+gem 'rocco', '>= 0.8.2'
 gem 'tilt'
 gem 'rake'
 gem 'phantomjs'
